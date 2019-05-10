@@ -10,11 +10,12 @@ These steps are demonstrated in the video.
 4.	For this tutorial, you are creating only four files to complete your maze.
 
 Your simulation package
-          -	/home/catkin_ws/src/my_simulations/worlds/empty_world.world
-          -	/home/catkin_ws/src/my_simulations/launch/my_world.launch
+- /home/catkin_ws/src/my_simulations/worlds/empty_world.world
+- /home/catkin_ws/src/my_simulations/launch/my_world.launch
+
 Your maze model
-          -	/home/master/.gazebo/models/my_maze/model.config
-          -	/home/master/.gazebo/models/my_maze/model.sdf
+- /home/master/.gazebo/models/my_maze/model.config
+- /home/master/.gazebo/models/my_maze/model.sdf
 
 5.	Next, you have to modify your .world file to include my_maze model.
 
